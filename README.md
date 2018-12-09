@@ -8,3 +8,9 @@ usage is simple.  The following lines build and launch an executable that introd
 go build cmd/hkwold.go
 ./hkwold -pin <pairing PIN> -mac <MAC address>
 ```
+
+## inspired by (i.e. shamelessly copied from):
+
+[https://github.com/brutella/hklight](https://github.com/brutella/hklight)
+
+[https://github.com/sabhiram/go-wol](https://github.com/sabhiram/go-wol)
